@@ -1,0 +1,12 @@
+[user]
+  user  = Michael Walker
+  name  = Michael Walker
+  email = michaelwalker610@gmail.com
+[github]
+  user  = m-walker
+  email = michaelwalker610@gmail.com
+[github "user"]
+  user  = m-walker
+  email = michaelwalker610@gmail.com
+[push]
+  default = simple
